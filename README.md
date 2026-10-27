@@ -1,5 +1,7 @@
 # interp
 
+[![ci](https://github.com/zg/interp/actions/workflows/ci.yml/badge.svg)](https://github.com/zg/interp/actions/workflows/ci.yml) [![Go Reference](https://pkg.go.dev/badge/github.com/zg/interp.svg)](https://pkg.go.dev/github.com/zg/interp) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 An interpreter: a program that directly executes instructions written in a
 programming language, without requiring them to have been compiled into
 machine language first.
